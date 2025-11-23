@@ -6,7 +6,6 @@ def items():
     return {"message": "Hello World"}
 
 print('git')
-print ('git2....')
 
 
 
