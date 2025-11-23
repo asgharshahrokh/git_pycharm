@@ -61,3 +61,6 @@ p.name = 'ahmad'
 p.famile = 'vali'
 p.age = 'knp'
 print(p.age)
+
+for i in range(10):
+    print(i)
